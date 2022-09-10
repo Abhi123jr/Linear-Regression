@@ -1,4 +1,3 @@
-# VAC-Assignment-477
 # Linear Regression
 The Data used in the project is taken from Github
 
